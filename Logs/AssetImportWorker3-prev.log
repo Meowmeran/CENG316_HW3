@@ -1,0 +1,418 @@
+Using pre-set license
+Built from '2022.3/respin/2022.3.62f2-4af31df585-v2' branch; Version is '2022.3.62f3 (96770f904ca7) revision 9860879'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) 64bit Core' Language: 'en' Physical Memory: 14029 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.62f3\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Users/Meowmeran/G14_DrinkLabs
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+58535
+Successfully changed project path to: C:/Users/Meowmeran/G14_DrinkLabs
+C:/Users/Meowmeran/G14_DrinkLabs
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [19700]  Target information:
+
+Player connection [19700]  * "[IP] 10.132.172.50 [Port] 0 [Flags] 2 [Guid] 4113682543 [EditorId] 4113682543 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-MEOWMERAN) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [19700]  * "[IP] 192.168.1.4 [Port] 0 [Flags] 2 [Guid] 4113682543 [EditorId] 4113682543 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-MEOWMERAN) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [19700] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [19700] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+Refreshing native plugins compatible for Editor in 11.96 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.62f3 (96770f904ca7)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.62f3/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Meowmeran/G14_DrinkLabs/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28a0)
+    Vendor:   NVIDIA
+    VRAM:     7957 MB
+    Driver:   32.0.15.8183
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.62f3/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.62f3/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.62f3/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56380
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.62f3/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.62f3/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007898 seconds.
+- Loaded All Assemblies, in  0.466 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 350 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.770 seconds
+Domain Reload Profiling: 1235ms
+	BeginReloadAssembly (137ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (48ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (71ms)
+	LoadAllAssembliesAndSetupDomain (193ms)
+		LoadAssemblies (135ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (190ms)
+			TypeCache.Refresh (189ms)
+				TypeCache.ScanAssembly (171ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (770ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (707ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (456ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (184ms)
+			ProcessInitializeOnLoadMethodAttributes (59ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.952 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.009 seconds
+Domain Reload Profiling: 1958ms
+	BeginReloadAssembly (216ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (48ms)
+	RebuildCommonClasses (50ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (54ms)
+	LoadAllAssembliesAndSetupDomain (616ms)
+		LoadAssemblies (432ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (296ms)
+			TypeCache.Refresh (262ms)
+				TypeCache.ScanAssembly (244ms)
+			ScanForSourceGeneratedMonoScriptInfo (26ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (1009ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (834ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (71ms)
+			ProcessInitializeOnLoadAttributes (697ms)
+			ProcessInitializeOnLoadMethodAttributes (36ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 8.22 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4841 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (56.2 KB). Loaded Objects now: 5309.
+Memory consumption went from 159.4 MB to 159.3 MB.
+Total: 3.524900 ms (FindLiveObjects: 0.234800 ms CreateObjectMapping: 0.107800 ms MarkObjects: 3.086300 ms  DeleteObjects: 0.094800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/XRHelpURLConstants.cs: 7a5beb455c744c93847a166db6e29e55 -> 98df96a8d7c753553b3cf6b4316c07b9
+  custom:scripting/precompiled-assembly-types:Unity.XR.Interaction.Toolkit: 8f0e4d93e9ab1e7990676a869950ed0d -> 819168b4a0ac640a342d131d3ee2d198
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/XRHandSubsystemDescriptor.cs:  -> 8fc8308b83c351d004f1cdc61ac89877
+  custom:scripting/monoscript/fileName/XRHandSkeletonDriverEditor.cs:  -> caf0e24f344854b7cc27ca3319d7777b
+  custom:scripting/monoscript/fileName/HandsOneEuroFilterPostProcessor.cs:  -> 0e0236ff7fe8040e674426d674acdd18
+  custom:scripting/monoscript/fileName/OneEuroFilterVector3.cs:  -> b8b59453576fa25eef8ddddb6609971f
+  custom:scripting/monoscript/fileName/IXRHandProcessor.cs:  -> 4b007234d59c720c71a162c8aecc7e8b
+  custom:scripting/monoscript/fileName/XRHandSubsystem.cs:  -> cce6a52f7ecfbaa3b1c83aac0e79f949
+  custom:scripting/monoscript/fileName/XRDeviceSimulatorControllerUI.cs:  -> 1fdda016482e80c4f698bd161ca6a92f
+  custom:scripting/monoscript/fileName/XRHandTrackingEventsEditor.cs:  -> 457813090f21a949828c4debe70cdb9a
+  custom:scripting/monoscript/fileName/XRDeviceSimulatorUI.cs:  -> 0ec50ce90bac5e819d9ddb292ac27c71
+  custom:scripting/monoscript/fileName/XRHandMeshController.cs:  -> 3bb5a4f8745ff5e091f329133fdd04cc
+  custom:scripting/monoscript/fileName/TransformSync.cs:  -> 049929db97053c9197a12eaf9903daef
+  custom:scripting/precompiled-assembly-types:Unity.XR.Interaction.Toolkit.Samples.Hands:  -> 8851d44065687eef3262ec754563e528
+  custom:scripting/monoscript/fileName/BaseXRHandsEditor.cs:  -> a8d271c6e691cdaad1d19054786feae9
+  custom:scripting/monoscript/fileName/XRHandSkeletonDriver.cs:  -> a94537efa9fbd44b583cc72c547f79b6
+  custom:scripting/monoscript/fileName/XRHandTrackingEvents.cs:  -> e7098a4b48df68ed2c13428b82f2ab35
+  custom:scripting/precompiled-assembly-types:Unity.XR.Hands:  -> 9673c5c2d604d17f658d2e74904a57da
+  custom:scripting/monoscript/fileName/MetaSystemGestureDetector.cs:  -> 21cabc53388d664323f35f44716fdb3c
+  custom:scripting/monoscript/fileName/LocalPositionOffsetAffordanceReceiver.cs:  -> ee410b0df85b670ed6bff48ce74d979f
+  custom:scripting/monoscript/fileName/MetaAim.cs:  -> 3fee3cb2a2deaca4b4454ffabc6c25d0
+  custom:scripting/monoscript/fileName/ObjectResetPlane.cs:  -> f54d0c309568b6906fff2440030e31c5
+  custom:scripting/monoscript/fileName/XRHandRelativeOrientation.cs:  -> d8845917353218514ff113600da2219a
+  custom:scripting/monoscript/fileName/XRHandSubsystemProvider.cs:  -> 56e861151abf40d6bce328a415ffdad5
+  custom:scripting/monoscript/fileName/HideObjectWhenRayInteractorBlocked.cs:  -> 4176a4c333ac2ccf6d79e4eacf5a1895
+  custom:scripting/monoscript/fileName/XRDeviceSimulatorHandsSubsystem.cs:  -> 3e5716ae4db9edc623310fee0f2d15aa
+  custom:scripting/precompiled-assembly-types:Unity.XR.Interaction.Toolkit.Samples.Hands.Editor:  -> ace5fec3642dc3ab7f30ebf48424acec
+  custom:scripting/monoscript/fileName/XRHandProviderUtility.cs:  -> ada01f841a5bea721f0cf2006d549c0f
+  custom:scripting/monoscript/fileName/XRFingerShapeCondition.cs:  -> 9f8a77e7e214750aef105ac235d709cf
+  custom:scripting/monoscript/fileName/XRHandSkeletonDriverUtility.cs:  -> 361dff05ffecd6a6307e1658d5105f6f
+  custom:scripting/monoscript/fileName/PokeBlendShapeAnimator.cs:  -> 7a3545cedc2f876a561572ace5313708
+  custom:scripting/monoscript/fileName/Vector3ScaleAffordanceReceiver.cs:  -> 5c4b4e9a33bfb92f4f9a611034b39e40
+  custom:scripting/monoscript/fileName/PinchPointFollow.cs:  -> 5c16ba0863e500f5940201793d070331
+  custom:scripting/monoscript/fileName/XRHandDevice.cs:  -> cacb17c4f08d3e689d973730f12b2fe5
+  custom:scripting/monoscript/fileName/XRFingerShapeConfiguration.cs:  -> 51cebcc1a7a721478f666b57ed597bfe
+  custom:scripting/monoscript/fileName/XRHandJointsUpdatedEventArgs.cs:  -> 839a1abe88068fde13fc7e5db800cc94
+  custom:scripting/monoscript/fileName/XRHandProviderUtility.deprecated.cs:  -> 3b131c4273bf0804850beca6c4cbfe0d
+  custom:scripting/monoscript/fileName/XRDeviceSimulatorHandsProvider.cs:  -> 515172af02348bc81fcfb3007105b4d2
+  custom:scripting/monoscript/fileName/XRHandProcessingUtility.cs:  -> 1f1cc37d4d6243e68655bb128961b59a
+  custom:scripting/monoscript/fileName/ToggleGraphicToggler.cs:  -> 51d9373d40da270f48bbe8728ba95a62
+  custom:scripting/monoscript/fileName/XRFingerShape.cs:  -> c41aee5172ccf6470e4cd8ae53066d4a
+  custom:scripting/monoscript/fileName/XRHandOrientationUtility.cs:  -> 4b0f927202509c86d7a78fa17299a608
+  custom:scripting/monoscript/fileName/XRDeviceSimulatorHandsUI.cs:  -> bca3963bba47bbf101fe9d7e7dd07836
+  custom:scripting/monoscript/fileName/XRHandShape.cs:  -> 19dfc75c596738b72d119327f3916a15
+  custom:scripting/monoscript/fileName/GrabTransformerRotationAxisLock.cs:  -> e31c337c238a978644e1af5133d9c25d
+  custom:scripting/monoscript/fileName/XRHandPose.cs:  -> 27ef765d76950ebe336c7873605587f6
+  custom:scripting/monoscript/fileName/PokeGestureDetector.cs:  -> 8ed8109023808b7e418a51d11ee41c1f
+  custom:scripting/precompiled-assembly-types:Unity.XR.Hands.Editor:  -> 0db44680e4f701f64d00efe03d074340
+  custom:scripting/monoscript/fileName/XRHandJoint.cs:  -> 0c41b91f75c823c214b6b2570f979c1b
+  custom:scripting/monoscript/fileName/XRHand.cs:  -> 975d9bc94476df585047a2b43a591f0c
+  custom:scripting/monoscript/fileName/HandsInteractionSampleProjectValidation.cs:  -> a38e27c4e530b47289ec3c8e37be180e
+  custom:scripting/precompiled-assembly-types:Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator:  -> b1a8126a568547b099f25fc1d4f742a8
+  custom:scripting/monoscript/fileName/ToggleGameObject.cs:  -> 8e20a01cae91ebd6847aad4a53cd9194
+  custom:scripting/monoscript/fileName/Enums.cs:  -> f57a8de2bbdce64e12a5f7fbc7fbbde3
+  custom:scripting/monoscript/fileName/XRFingerShapeMath.cs:  -> 788f9ea907cd4861b225ea55dfae8dc5
+  custom:scripting/monoscript/fileName/XRHandSubsystem.deprecated.cs:  -> cce6a52f7ecfbaa3b1c83aac0e79f949
+  custom:scripting/monoscript/fileName/MetaAim.deprecated.cs:  -> 3fee3cb2a2deaca4b4454ffabc6c25d0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 12.55 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1 unused Assets / (3.1 KB). Loaded Objects now: 5309.
+Memory consumption went from 79.7 MB to 79.7 MB.
+Total: 5.838800 ms (FindLiveObjects: 0.368100 ms CreateObjectMapping: 0.306000 ms MarkObjects: 5.110500 ms  DeleteObjects: 0.053000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/XRHelpURLConstants.cs: 7a5beb455c744c93847a166db6e29e55 -> 98df96a8d7c753553b3cf6b4316c07b9
+  custom:scripting/precompiled-assembly-types:Unity.XR.Interaction.Toolkit: 8f0e4d93e9ab1e7990676a869950ed0d -> 819168b4a0ac640a342d131d3ee2d198
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/XRHandSubsystemDescriptor.cs:  -> 8fc8308b83c351d004f1cdc61ac89877
+  custom:scripting/monoscript/fileName/XRHandSkeletonDriverEditor.cs:  -> caf0e24f344854b7cc27ca3319d7777b
+  custom:scripting/monoscript/fileName/HandsOneEuroFilterPostProcessor.cs:  -> 0e0236ff7fe8040e674426d674acdd18
+  custom:scripting/monoscript/fileName/OneEuroFilterVector3.cs:  -> b8b59453576fa25eef8ddddb6609971f
+  custom:scripting/monoscript/fileName/IXRHandProcessor.cs:  -> 4b007234d59c720c71a162c8aecc7e8b
+  custom:scripting/monoscript/fileName/XRHandSubsystem.cs:  -> cce6a52f7ecfbaa3b1c83aac0e79f949
+  custom:scripting/monoscript/fileName/XRDeviceSimulatorControllerUI.cs:  -> 1fdda016482e80c4f698bd161ca6a92f
+  custom:scripting/monoscript/fileName/XRHandTrackingEventsEditor.cs:  -> 457813090f21a949828c4debe70cdb9a
+  custom:scripting/monoscript/fileName/XRDeviceSimulatorUI.cs:  -> 0ec50ce90bac5e819d9ddb292ac27c71
+  custom:scripting/monoscript/fileName/XRHandMeshController.cs:  -> 3bb5a4f8745ff5e091f329133fdd04cc
+  custom:scripting/monoscript/fileName/TransformSync.cs:  -> 049929db97053c9197a12eaf9903daef
+  custom:scripting/precompiled-assembly-types:Unity.XR.Interaction.Toolkit.Samples.Hands:  -> 8851d44065687eef3262ec754563e528
+  custom:scripting/monoscript/fileName/BaseXRHandsEditor.cs:  -> a8d271c6e691cdaad1d19054786feae9
+  custom:scripting/monoscript/fileName/XRHandSkeletonDriver.cs:  -> a94537efa9fbd44b583cc72c547f79b6
+  custom:scripting/monoscript/fileName/XRHandTrackingEvents.cs:  -> e7098a4b48df68ed2c13428b82f2ab35
+  custom:scripting/precompiled-assembly-types:Unity.XR.Hands:  -> 9673c5c2d604d17f658d2e74904a57da
+  custom:scripting/monoscript/fileName/MetaSystemGestureDetector.cs:  -> 21cabc53388d664323f35f44716fdb3c
+  custom:scripting/monoscript/fileName/LocalPositionOffsetAffordanceReceiver.cs:  -> ee410b0df85b670ed6bff48ce74d979f
+  custom:scripting/monoscript/fileName/MetaAim.cs:  -> 3fee3cb2a2deaca4b4454ffabc6c25d0
+  custom:scripting/monoscript/fileName/ObjectResetPlane.cs:  -> f54d0c309568b6906fff2440030e31c5
+  custom:scripting/monoscript/fileName/XRHandRelativeOrientation.cs:  -> d8845917353218514ff113600da2219a
+  custom:scripting/monoscript/fileName/XRHandSubsystemProvider.cs:  -> 56e861151abf40d6bce328a415ffdad5
+  custom:scripting/monoscript/fileName/HideObjectWhenRayInteractorBlocked.cs:  -> 4176a4c333ac2ccf6d79e4eacf5a1895
+  custom:scripting/monoscript/fileName/XRDeviceSimulatorHandsSubsystem.cs:  -> 3e5716ae4db9edc623310fee0f2d15aa
+  custom:scripting/precompiled-assembly-types:Unity.XR.Interaction.Toolkit.Samples.Hands.Editor:  -> ace5fec3642dc3ab7f30ebf48424acec
+  custom:scripting/monoscript/fileName/XRHandProviderUtility.cs:  -> ada01f841a5bea721f0cf2006d549c0f
+  custom:scripting/monoscript/fileName/XRFingerShapeCondition.cs:  -> 9f8a77e7e214750aef105ac235d709cf
+  custom:scripting/monoscript/fileName/XRHandSkeletonDriverUtility.cs:  -> 361dff05ffecd6a6307e1658d5105f6f
+  custom:scripting/monoscript/fileName/PokeBlendShapeAnimator.cs:  -> 7a3545cedc2f876a561572ace5313708
+  custom:scripting/monoscript/fileName/Vector3ScaleAffordanceReceiver.cs:  -> 5c4b4e9a33bfb92f4f9a611034b39e40
+  custom:scripting/monoscript/fileName/PinchPointFollow.cs:  -> 5c16ba0863e500f5940201793d070331
+  custom:scripting/monoscript/fileName/XRHandDevice.cs:  -> cacb17c4f08d3e689d973730f12b2fe5
+  custom:scripting/monoscript/fileName/XRFingerShapeConfiguration.cs:  -> 51cebcc1a7a721478f666b57ed597bfe
+  custom:scripting/monoscript/fileName/XRHandJointsUpdatedEventArgs.cs:  -> 839a1abe88068fde13fc7e5db800cc94
+  custom:scripting/monoscript/fileName/XRHandProviderUtility.deprecated.cs:  -> 3b131c4273bf0804850beca6c4cbfe0d
+  custom:scripting/monoscript/fileName/XRDeviceSimulatorHandsProvider.cs:  -> 515172af02348bc81fcfb3007105b4d2
+  custom:scripting/monoscript/fileName/XRHandProcessingUtility.cs:  -> 1f1cc37d4d6243e68655bb128961b59a
+  custom:scripting/monoscript/fileName/ToggleGraphicToggler.cs:  -> 51d9373d40da270f48bbe8728ba95a62
+  custom:scripting/monoscript/fileName/XRFingerShape.cs:  -> c41aee5172ccf6470e4cd8ae53066d4a
+  custom:scripting/monoscript/fileName/XRHandOrientationUtility.cs:  -> 4b0f927202509c86d7a78fa17299a608
+  custom:scripting/monoscript/fileName/XRDeviceSimulatorHandsUI.cs:  -> bca3963bba47bbf101fe9d7e7dd07836
+  custom:scripting/monoscript/fileName/XRHandShape.cs:  -> 19dfc75c596738b72d119327f3916a15
+  custom:scripting/monoscript/fileName/GrabTransformerRotationAxisLock.cs:  -> e31c337c238a978644e1af5133d9c25d
+  custom:scripting/monoscript/fileName/XRHandPose.cs:  -> 27ef765d76950ebe336c7873605587f6
+  custom:scripting/monoscript/fileName/PokeGestureDetector.cs:  -> 8ed8109023808b7e418a51d11ee41c1f
+  custom:scripting/precompiled-assembly-types:Unity.XR.Hands.Editor:  -> 0db44680e4f701f64d00efe03d074340
+  custom:scripting/monoscript/fileName/XRHandJoint.cs:  -> 0c41b91f75c823c214b6b2570f979c1b
+  custom:scripting/monoscript/fileName/XRHand.cs:  -> 975d9bc94476df585047a2b43a591f0c
+  custom:scripting/monoscript/fileName/HandsInteractionSampleProjectValidation.cs:  -> a38e27c4e530b47289ec3c8e37be180e
+  custom:scripting/precompiled-assembly-types:Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator:  -> b1a8126a568547b099f25fc1d4f742a8
+  custom:scripting/monoscript/fileName/ToggleGameObject.cs:  -> 8e20a01cae91ebd6847aad4a53cd9194
+  custom:scripting/monoscript/fileName/Enums.cs:  -> f57a8de2bbdce64e12a5f7fbc7fbbde3
+  custom:scripting/monoscript/fileName/XRFingerShapeMath.cs:  -> 788f9ea907cd4861b225ea55dfae8dc5
+  custom:scripting/monoscript/fileName/XRHandSubsystem.deprecated.cs:  -> cce6a52f7ecfbaa3b1c83aac0e79f949
+  custom:scripting/monoscript/fileName/MetaAim.deprecated.cs:  -> 3fee3cb2a2deaca4b4454ffabc6c25d0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 10.38 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1 unused Assets / (3.1 KB). Loaded Objects now: 5309.
+Memory consumption went from 79.3 MB to 79.3 MB.
+Total: 4.295500 ms (FindLiveObjects: 0.305600 ms CreateObjectMapping: 0.271800 ms MarkObjects: 3.660300 ms  DeleteObjects: 0.055400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/XRHelpURLConstants.cs: 7a5beb455c744c93847a166db6e29e55 -> 98df96a8d7c753553b3cf6b4316c07b9
+  custom:scripting/precompiled-assembly-types:Unity.XR.Interaction.Toolkit: 8f0e4d93e9ab1e7990676a869950ed0d -> 819168b4a0ac640a342d131d3ee2d198
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/XRHandSubsystemDescriptor.cs:  -> 8fc8308b83c351d004f1cdc61ac89877
+  custom:scripting/monoscript/fileName/XRHandSkeletonDriverEditor.cs:  -> caf0e24f344854b7cc27ca3319d7777b
+  custom:scripting/monoscript/fileName/HandsOneEuroFilterPostProcessor.cs:  -> 0e0236ff7fe8040e674426d674acdd18
+  custom:scripting/monoscript/fileName/OneEuroFilterVector3.cs:  -> b8b59453576fa25eef8ddddb6609971f
+  custom:scripting/monoscript/fileName/IXRHandProcessor.cs:  -> 4b007234d59c720c71a162c8aecc7e8b
+  custom:scripting/monoscript/fileName/XRHandSubsystem.cs:  -> cce6a52f7ecfbaa3b1c83aac0e79f949
+  custom:scripting/monoscript/fileName/XRDeviceSimulatorControllerUI.cs:  -> 1fdda016482e80c4f698bd161ca6a92f
+  custom:scripting/monoscript/fileName/XRHandTrackingEventsEditor.cs:  -> 457813090f21a949828c4debe70cdb9a
+  custom:scripting/monoscript/fileName/XRDeviceSimulatorUI.cs:  -> 0ec50ce90bac5e819d9ddb292ac27c71
+  custom:scripting/monoscript/fileName/XRHandMeshController.cs:  -> 3bb5a4f8745ff5e091f329133fdd04cc
+  custom:scripting/monoscript/fileName/TransformSync.cs:  -> 049929db97053c9197a12eaf9903daef
+  custom:scripting/precompiled-assembly-types:Unity.XR.Interaction.Toolkit.Samples.Hands:  -> 8851d44065687eef3262ec754563e528
+  custom:scripting/monoscript/fileName/BaseXRHandsEditor.cs:  -> a8d271c6e691cdaad1d19054786feae9
+  custom:scripting/monoscript/fileName/XRHandSkeletonDriver.cs:  -> a94537efa9fbd44b583cc72c547f79b6
+  custom:scripting/monoscript/fileName/XRHandTrackingEvents.cs:  -> e7098a4b48df68ed2c13428b82f2ab35
+  custom:scripting/precompiled-assembly-types:Unity.XR.Hands:  -> 9673c5c2d604d17f658d2e74904a57da
+  custom:scripting/monoscript/fileName/MetaSystemGestureDetector.cs:  -> 21cabc53388d664323f35f44716fdb3c
+  custom:scripting/monoscript/fileName/LocalPositionOffsetAffordanceReceiver.cs:  -> ee410b0df85b670ed6bff48ce74d979f
+  custom:scripting/monoscript/fileName/MetaAim.cs:  -> 3fee3cb2a2deaca4b4454ffabc6c25d0
+  custom:scripting/monoscript/fileName/ObjectResetPlane.cs:  -> f54d0c309568b6906fff2440030e31c5
+  custom:scripting/monoscript/fileName/XRHandRelativeOrientation.cs:  -> d8845917353218514ff113600da2219a
+  custom:scripting/monoscript/fileName/XRHandSubsystemProvider.cs:  -> 56e861151abf40d6bce328a415ffdad5
+  custom:scripting/monoscript/fileName/HideObjectWhenRayInteractorBlocked.cs:  -> 4176a4c333ac2ccf6d79e4eacf5a1895
+  custom:scripting/monoscript/fileName/XRDeviceSimulatorHandsSubsystem.cs:  -> 3e5716ae4db9edc623310fee0f2d15aa
+  custom:scripting/precompiled-assembly-types:Unity.XR.Interaction.Toolkit.Samples.Hands.Editor:  -> ace5fec3642dc3ab7f30ebf48424acec
+  custom:scripting/monoscript/fileName/XRHandProviderUtility.cs:  -> ada01f841a5bea721f0cf2006d549c0f
+  custom:scripting/monoscript/fileName/XRFingerShapeCondition.cs:  -> 9f8a77e7e214750aef105ac235d709cf
+  custom:scripting/monoscript/fileName/XRHandSkeletonDriverUtility.cs:  -> 361dff05ffecd6a6307e1658d5105f6f
+  custom:scripting/monoscript/fileName/PokeBlendShapeAnimator.cs:  -> 7a3545cedc2f876a561572ace5313708
+  custom:scripting/monoscript/fileName/Vector3ScaleAffordanceReceiver.cs:  -> 5c4b4e9a33bfb92f4f9a611034b39e40
+  custom:scripting/monoscript/fileName/PinchPointFollow.cs:  -> 5c16ba0863e500f5940201793d070331
+  custom:scripting/monoscript/fileName/XRHandDevice.cs:  -> cacb17c4f08d3e689d973730f12b2fe5
+  custom:scripting/monoscript/fileName/XRFingerShapeConfiguration.cs:  -> 51cebcc1a7a721478f666b57ed597bfe
+  custom:scripting/monoscript/fileName/XRHandJointsUpdatedEventArgs.cs:  -> 839a1abe88068fde13fc7e5db800cc94
+  custom:scripting/monoscript/fileName/XRHandProviderUtility.deprecated.cs:  -> 3b131c4273bf0804850beca6c4cbfe0d
+  custom:scripting/monoscript/fileName/XRDeviceSimulatorHandsProvider.cs:  -> 515172af02348bc81fcfb3007105b4d2
+  custom:scripting/monoscript/fileName/XRHandProcessingUtility.cs:  -> 1f1cc37d4d6243e68655bb128961b59a
+  custom:scripting/monoscript/fileName/ToggleGraphicToggler.cs:  -> 51d9373d40da270f48bbe8728ba95a62
+  custom:scripting/monoscript/fileName/XRFingerShape.cs:  -> c41aee5172ccf6470e4cd8ae53066d4a
+  custom:scripting/monoscript/fileName/XRHandOrientationUtility.cs:  -> 4b0f927202509c86d7a78fa17299a608
+  custom:scripting/monoscript/fileName/XRDeviceSimulatorHandsUI.cs:  -> bca3963bba47bbf101fe9d7e7dd07836
+  custom:scripting/monoscript/fileName/XRHandShape.cs:  -> 19dfc75c596738b72d119327f3916a15
+  custom:scripting/monoscript/fileName/GrabTransformerRotationAxisLock.cs:  -> e31c337c238a978644e1af5133d9c25d
+  custom:scripting/monoscript/fileName/XRHandPose.cs:  -> 27ef765d76950ebe336c7873605587f6
+  custom:scripting/monoscript/fileName/PokeGestureDetector.cs:  -> 8ed8109023808b7e418a51d11ee41c1f
+  custom:scripting/precompiled-assembly-types:Unity.XR.Hands.Editor:  -> 0db44680e4f701f64d00efe03d074340
+  custom:scripting/monoscript/fileName/XRHandJoint.cs:  -> 0c41b91f75c823c214b6b2570f979c1b
+  custom:scripting/monoscript/fileName/XRHand.cs:  -> 975d9bc94476df585047a2b43a591f0c
+  custom:scripting/monoscript/fileName/HandsInteractionSampleProjectValidation.cs:  -> a38e27c4e530b47289ec3c8e37be180e
+  custom:scripting/precompiled-assembly-types:Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator:  -> b1a8126a568547b099f25fc1d4f742a8
+  custom:scripting/monoscript/fileName/ToggleGameObject.cs:  -> 8e20a01cae91ebd6847aad4a53cd9194
+  custom:scripting/monoscript/fileName/Enums.cs:  -> f57a8de2bbdce64e12a5f7fbc7fbbde3
+  custom:scripting/monoscript/fileName/XRFingerShapeMath.cs:  -> 788f9ea907cd4861b225ea55dfae8dc5
+  custom:scripting/monoscript/fileName/XRHandSubsystem.deprecated.cs:  -> cce6a52f7ecfbaa3b1c83aac0e79f949
+  custom:scripting/monoscript/fileName/MetaAim.deprecated.cs:  -> 3fee3cb2a2deaca4b4454ffabc6c25d0
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
